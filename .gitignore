@@ -13,6 +13,7 @@ a.out
 bower_components/
 node_modules/
 venv/
+package-lock.json
 
 # Debug
 npm-debug.log
