@@ -1,8 +1,10 @@
 # IDE
-.idea
+.idea/
+.vscode/
 
 # Build
 build/
+__pycache__/
 *.pyc
 a.out
 
@@ -20,3 +22,5 @@ npm-debug.log
 
 # Extras
 temp/
+
+# Project specific
